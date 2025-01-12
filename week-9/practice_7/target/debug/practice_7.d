@@ -1,0 +1,1 @@
+C:\Users\Chidera\ Omenuko\OneDrive\Documentos\c.omenukoCSC101\week-9\practice_7\target\debug\practice_7.exe: C:\Users\Chidera\ Omenuko\OneDrive\Documentos\c.omenukoCSC101\week-9\practice_7\src\main.rs

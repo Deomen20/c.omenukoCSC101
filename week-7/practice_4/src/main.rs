@@ -13,5 +13,5 @@ fn main() {
     {
         //iterating through i on the vector
         print!("{} is {} years old",name[i],age[i]);
-    }
+    }z
 }

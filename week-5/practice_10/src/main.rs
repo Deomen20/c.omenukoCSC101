@@ -1,5 +1,5 @@
 fn main() {
-    Let a = 20;
+    Let a= 20;
     let b = 30;
 
     if (a > 10) && (b > 10){
